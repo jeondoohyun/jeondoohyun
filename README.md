@@ -1,9 +1,10 @@
 <!-- ### Hi there 👋 -->
 
 ![header](https://capsule-render.vercel.app/api?height=300&color=FF3636&type=waving&text=WELLCOME!&desc=jeondoohyun's%20github)
-<h1>tech stack</h1>
+<h1>Tech Stack</h1>
 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/java-512BD4?style=flat-square&logoColor=512BD4"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/java?style=flat-square&logoColor=512BD4"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/kotlin?style=flat-square&logo=Kotlin&logoColor=FF0000"/></a>
 
 
 <!--

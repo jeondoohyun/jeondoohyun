@@ -1,9 +1,9 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![header](https://capsule-render.vercel.app/api?height=300&color=FF3636&type=waving&text=WELLCOME!&desc=jeondoohyun's%20github)
 <h1>tech stack</h1>
 
-
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/java-512BD4?style=flat-square&logo=joplin&logoColor=512BD4"/></a>
 
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=B897FF&height=300&section=header&text=WELLCOME&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?height=300&color=FF3636&type=waving&text=WELLCOME!&desc=jeondoohyun's%20github)
 <!--
 **jeondoohyun/jeondoohyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

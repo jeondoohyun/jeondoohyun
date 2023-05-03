@@ -1,10 +1,14 @@
 <!-- ### Hi there 👋 -->
 
 ![header](https://capsule-render.vercel.app/api?height=300&color=FF3636&type=waving&text=WELLCOME!&desc=jeondoohyun's%20github)
+
 <h1>Tech Stack</h1>
 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/java-512BD4?style=flat-square&logoColor=512BD4"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/kotlin-FF0000?style=flat-square&logo=kotlin&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/android-1DDB16?style=flat-square&logo=android&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FF00DD?style=flat-square&logo=swift&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-4374D9?style=flat-square&logo=xcode&logoColor=FFFFFF"/></a>
 
 
 <!--

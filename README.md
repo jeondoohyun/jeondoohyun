@@ -5,7 +5,7 @@
 <h1>Tech Stack</h1>
 
 
-<p>자주사용해요</p>
+<strong>자주사용해요</strong>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/android-1DDB16?style=flat-square&logo=android&logoColor=FFFFFF"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=FFFFFF"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-4374D9?style=flat-square&logo=xcode&logoColor=FFFFFF"/></a>

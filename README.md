@@ -6,8 +6,9 @@
 
 
 <strong>자주사용해요</strong><br>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/android-1DDB16?style=flat-square&logo=android&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=FFFFFF"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/android studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=FFFFFF"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-4374D9?style=flat-square&logo=xcode&logoColor=FFFFFF"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/java-512BD4?style=flat-square&logoColor=512BD4"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/kotlin-FF0000?style=flat-square&logo=kotlin&logoColor=FFFFFF"/></a>
@@ -15,7 +16,12 @@
 
 <br>
 <strong>사용한적있어요</strong><br>
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/html-1DDB16?style=flat-square&logo=android&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/ios-000000?style=flat-square&logo=apple&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/xcode-4374D9?style=flat-square&logo=xcode&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/java-512BD4?style=flat-square&logoColor=512BD4"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/kotlin-FF0000?style=flat-square&logo=kotlin&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/swift-FF00DD?style=flat-square&logo=swift&logoColor=FFFFFF"/></a>
 
 
 <!--

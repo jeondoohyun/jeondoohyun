@@ -18,7 +18,7 @@
 <strong>사용한적있어요</strong><br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=FFFFFF"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=FFFFFF"/></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/javaScript-000000?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/javaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=FFFFFF"/></a>
 
 
